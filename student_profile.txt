@@ -1,0 +1,12 @@
+----------------------------------------
+        STUDENT PROFILE SYSTEM          
+----------------------------------------
+Name:            Akshay keshav
+Roll No:         2501660007
+Course:          bca(cyber)
+University:      kr mangalam university
+City:            New Delhi
+Age:             18
+Hobby:           playing cricket
+----------------------------------------
+Welcome to Python Programming !
